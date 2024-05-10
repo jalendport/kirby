@@ -1,0 +1,16 @@
+/.env
+/.idea
+/vendor
+/vendor-plugins
+.DS_Store
+
+/data/accounts/*
+/data/content/*
+
+/storage/cache/*
+/storage/logs/*
+/storage/sessions/*
+
+/web/media/*
+
+!/**/.gitkeep
